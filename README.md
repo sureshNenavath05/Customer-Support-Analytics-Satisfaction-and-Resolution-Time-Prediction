@@ -223,9 +223,8 @@ jupyter notebook Customer-Satisfaction.ipynb
 
 ## 👨‍💻 Author
 
-**M.Umesh Chandra**
-📧 *[[metlaumeshchandra2005@gmail.com](mailto:metlaumeshchandra2005@gmail.com)]*
-💼 *Data Scientist | Machine Learning Engineer | Climate Data Enthusiast*
+**NENAVATH SURESH**
+
 
 ---
 
