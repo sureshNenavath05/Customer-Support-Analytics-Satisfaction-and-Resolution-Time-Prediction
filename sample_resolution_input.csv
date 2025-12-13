@@ -1,0 +1,11 @@
+Customer Age,Date of Purchase,First Response Time,Ticket Priority,Ticket Description,Resolution
+46,2024-06-26,2024-06-04,Low,App crashed while login,Reboot and retry
+40,2024-06-15,2024-06-03,Medium,Slow performance,Cleared cache
+46,2024-06-25,2024-06-02,Critical,Unable to upload files,Restarted service
+23,2024-06-02,2024-06-04,High,App crashed while login,Updated config
+50,2024-06-07,2024-06-03,High,Slow performance,Reinstalled app
+30,2024-06-10,2024-06-02,Critical,Unable to upload files,Reboot and retry
+61,2024-06-30,2024-06-04,High,App crashed while login,Cleared cache
+52,2024-06-03,2024-06-04,Low,Slow performance,Restarted service
+57,2024-06-22,2024-06-04,Low,Unable to upload files,Updated config
+38,2024-06-09,2024-06-02,Critical,Payment failed,Reinstalled app
