@@ -193,43 +193,10 @@ customer-support-prediction/
 ├── README.md
 └── Customer-Satisfaction.ipynb      # Full pipeline development
 
-```
----
-
-## 🚀 How to Run
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/Customer-Satisfaction-Prediction.git
-cd Customer-Satisfaction-Prediction
-```
-
-### 2️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run Jupyter Notebook
-
-```bash
-jupyter notebook Customer-Satisfaction.ipynb
-```
-
----
-
-
-
 ## 👨‍💻 Author
 
 **NENAVATH SURESH**
 
 
----
-
-⭐ **If you find this project insightful, please star the repository!**
-
-```
 
 
